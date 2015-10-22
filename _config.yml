@@ -1,0 +1,23 @@
+name: Bjorn Davidsson
+favicon: null
+layout_spectrum: 0.843913190998137
+typography_spectrum: 0.038223756244406104
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5040869121439755
+  lightness: 0.75956896902062
+  saturation: 0.5449029444716871
+  rhythmicContrast: 0.675120115512982
+purpose: []
