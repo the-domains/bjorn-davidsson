@@ -1,7 +1,7 @@
 name: Bjorn Davidsson
 favicon: null
-layout_spectrum: 0.44201
-typography_spectrum: 0.038223756244406104
+layout_spectrum: 1
+typography_spectrum: 0.40153
 title: Photos
 cta:
   domain: null
@@ -16,9 +16,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
-  lightness: 0.75956896902062
-  saturation: 0.5449029444716871
-  rhythmicContrast: 0.675120115512982
+  brandColors:
+    - '#768be8'
+    - '#002a90'
+    - '#010207'
+    - '#3451c6'
+    - '#fefefe'
+  brandStrength: 0.5
+  lightness: 0.4375
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
