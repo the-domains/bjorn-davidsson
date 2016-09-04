@@ -1,20 +1,4 @@
-name: Bjorn Davidsson
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.40153
-title: Photos
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#020305'
@@ -26,4 +10,20 @@ color:
   lightness: 0
   saturation: 0.125
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Bjorn Davidsson
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Photos
 purpose: []
